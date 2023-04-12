@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AmandaPerino
-- 👀 I’m interested in learning something net-new in my spare time
-- 🌱 I’m currently learning Ruby on Rails, Javascript, HTML, CSS, and databases...en italiano!
-- 💞️ I’m looking to collaborate on fun projects just so we can improve
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandabrookeperino/)
 
 <!---
